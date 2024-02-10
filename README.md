@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
-
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/najil-parakkal-06b066288/" target="_blank">
@@ -48,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
