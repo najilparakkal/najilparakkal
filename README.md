@@ -1,7 +1,11 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
+
+
 ###
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/najil-parakkal-06b066288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,7 +18,9 @@
   </a>
 </div>
 
+
 ###
+
 
 <h1 align="center">hey there 👋</h1>
 
@@ -47,11 +53,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=najilparakkal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
